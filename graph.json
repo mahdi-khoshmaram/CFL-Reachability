@@ -1,0 +1,4 @@
+{
+    "Vertices": ["A","B","C"],
+    "Edges": ["A,B,a","B,C,b"]
+}
