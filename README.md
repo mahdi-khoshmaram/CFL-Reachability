@@ -1,4 +1,5 @@
 # Single-Source CFL Reachability Problem
+![Graph Example](graph.png)
 
 ## Overview
 
