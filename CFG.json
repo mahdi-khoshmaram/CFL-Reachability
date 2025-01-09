@@ -1,6 +1,6 @@
 {
     "terminals" : ["a","b"],
-    "non_terminals" : ["A","B","C"],
+    "non_terminals" : ["S","X","Y","Z"],
     "productions" : {
         "S":"X",
         "X":"YZ",
